@@ -1,7 +1,17 @@
 {
-    "products": [
-      { "id": 1, "name": "Product 1", "price": 100, "description": "Description 1" },
-      { "id": 2, "name": "Product 2", "price": 200, "description": "Description 2" }
-    ]
-  }
-  
+  "products": [
+    { "id": 1, "name": "Product 1", "price": 100, "description": "Description 1", "image": "https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 2, "name": "Product 2", "price": 200, "description": "Description 2", "image": "https://images.pexels.com/photos/3183187/pexels-photo-3183187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 3, "name": "Product 3", "price": 150, "description": "Description 3", "image": "https://images.pexels.com/photos/413736/pexels-photo-413736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 4, "name": "Product 4", "price": 180, "description": "Description 4", "image": "https://images.pexels.com/photos/3965448/pexels-photo-3965448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 5, "name": "Product 5", "price": 220, "description": "Description 5", "image": "https://images.pexels.com/photos/235647/pexels-photo-235647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 6, "name": "Product 6", "price": 120, "description": "Description 6", "image": "https://images.pexels.com/photos/4050317/pexels-photo-4050317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 7, "name": "Product 7", "price": 250, "description": "Description 7", "image": "https://images.pexels.com/photos/3081652/pexels-photo-3081652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 8, "name": "Product 8", "price": 190, "description": "Description 8", "image": "https://images.pexels.com/photos/4386468/pexels-photo-4386468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 9, "name": "Product 9", "price": 170, "description": "Description 9", "image": "https://images.pexels.com/photos/159241/smartphone-cellphone-apple-iphone-159241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 10, "name": "Product 10", "price": 230, "description": "Description 10", "image": "https://images.pexels.com/photos/243211/pexels-photo-243211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 11, "name": "Product 11", "price": 140, "description": "Description 11", "image": "https://images.pexels.com/photos/1921368/pexels-photo-1921368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 12, "name": "Product 12", "price": 260, "description": "Description 12", "image": "https://images.pexels.com/photos/352680/pexels-photo-352680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" },
+    { "id": 13, "name": "Product 13", "price": 270, "description": "Description 13", "image": "https://images.pexels.com/photos/4145354/pexels-photo-4145354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" }
+  ]
+}
