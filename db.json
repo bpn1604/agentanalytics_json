@@ -1,11 +1,7 @@
 {
-    "posts": [
-      { "id": 1, "title": "Hello World" },
-      { "id": 2, "title": "Another Post" }
-    ],
-    "comments": [
-      { "id": 1, "postId": 1, "body": "Great post!" },
-      { "id": 2, "postId": 1, "body": "Thanks for sharing." }
+    "products"= [
+      { "id": 1, "name": "Product 1", "price": 100, "description": "Description 1" },
+      { "id": 2, "name": "Product 2", "price": 200, "description": "Description 2" }
     ]
   }
   
